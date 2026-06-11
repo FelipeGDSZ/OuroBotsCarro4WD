@@ -45,9 +45,9 @@ Como Funciona
 
 ## Galeria do Projeto
 
-<img width="960" height="1280" alt="WhatsApp Image 2025-12-05 at 4 15 06 PM" src="https://github.com/user-attachments/assets/87229aa2-eaa3-4039-bb9f-661f7fbb4081" />
-<img width="1200" height="1600" alt="WhatsApp Image 2025-12-05 at 4 15 01 PM" src="https://github.com/user-attachments/assets/9172f2a8-2260-4c43-8f9d-10fb507837eb" />
-<img width="1200" height="1600" alt="WhatsApp Image 2025-12-05 at 4 15 00 PM" src="https://github.com/user-attachments/assets/3e5d3811-5bab-4ac4-bf13-8b251490344e" />
+<img width="660" height="980" alt="WhatsApp Image 2025-12-05 at 4 15 06 PM" src="https://github.com/user-attachments/assets/87229aa2-eaa3-4039-bb9f-661f7fbb4081" />
+<img width="900" height="1300" alt="WhatsApp Image 2025-12-05 at 4 15 01 PM" src="https://github.com/user-attachments/assets/9172f2a8-2260-4c43-8f9d-10fb507837eb" />
+<img width="900" height="1300" alt="WhatsApp Image 2025-12-05 at 4 15 00 PM" src="https://github.com/user-attachments/assets/3e5d3811-5bab-4ac4-bf13-8b251490344e" />
 
 
 
