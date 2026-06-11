@@ -5,7 +5,8 @@ Códigos usados na programação de um carrinho 4WD autônomo. O projeto envolve
 
 Este repositório contém o firmware para um robô móvel 4WD com processamento distribuído. O projeto utiliza um Arduino para o controle de tração (motores DC via driver) e um ESP32 para o sistema de propulsão aerodinâmica.
 
-![Demonstração do Robô](link-para-seu-gif-ou-video-aqui)
+[Demonstração do Robô] 
+(https://github.com/user-attachments/assets/7b8af6a2-6e2f-4f4c-ba3e-244bdfb9dd35)
 
 ## Tecnologias e Hardware
 * **Linguagem:** C++
@@ -44,11 +45,11 @@ Como Funciona
 
 ## Galeria do Projeto
 
-| Montagem Eletrônica | Estrutura 4WD |
-| :---: | :---: |
-| ![Circuito](link-foto-1) | ![Chassi](link-foto-2) |
+<img width="960" height="1280" alt="WhatsApp Image 2025-12-05 at 4 15 06 PM" src="https://github.com/user-attachments/assets/87229aa2-eaa3-4039-bb9f-661f7fbb4081" />
+<img width="1200" height="1600" alt="WhatsApp Image 2025-12-05 at 4 15 01 PM" src="https://github.com/user-attachments/assets/9172f2a8-2260-4c43-8f9d-10fb507837eb" />
+<img width="1200" height="1600" alt="WhatsApp Image 2025-12-05 at 4 15 00 PM" src="https://github.com/user-attachments/assets/3e5d3811-5bab-4ac4-bf13-8b251490344e" />
 
-*(Adicione aqui fotos da montagem física, do Arduino conectado ao driver e do acoplamento do motor brushless no chassi)*
+
 
 Como rodar este projeto
 
